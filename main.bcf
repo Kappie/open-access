@@ -2077,6 +2077,16 @@
     <bcf:datasource type="file" datatype="bibtex">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1">monograph_serial_costs</bcf:citekey>
+    <bcf:citekey order="1">suber2008open</bcf:citekey>
+    <bcf:citekey order="2">harnad2008access</bcf:citekey>
+    <bcf:citekey order="3">harnad_raincoat</bcf:citekey>
+    <bcf:citekey order="4">harnad1995subversive</bcf:citekey>
+    <bcf:citekey order="5">boai</bcf:citekey>
+    <bcf:citekey order="6">harnad2004access</bcf:citekey>
+    <bcf:citekey order="7">houghton2013planting</bcf:citekey>
+    <bcf:citekey order="8">gargouri2010self</bcf:citekey>
+    <bcf:citekey order="9">houghton2013planting</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

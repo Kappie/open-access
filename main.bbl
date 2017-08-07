@@ -16,5 +16,325 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \sortlist[entry]{none/global/}
+    \entry{monograph_serial_costs}{misc}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{Monograph \& serial costs in {ARL} libraries 1986-2011}
+      \verb{url}
+      \verb http://www.arl.org/storage/documents/monograph-serial-costs.pdf
+      \endverb
+    \endentry
+    \entry{suber2008open}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3935005ecd505c86319fdef67277fccd}{%
+           family={Suber},
+           family_i={S\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{3935005ecd505c86319fdef67277fccd}
+      \strng{fullhash}{3935005ecd505c86319fdef67277fccd}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{2}
+      \field{title}{Open access}
+      \field{year}{2012}
+    \endentry
+    \entry{harnad2008access}{article}{}
+      \name{author}{9}{}{%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+        {{hash=edc3402e4785bcec739d99964a9daae5}{%
+           family={Brody},
+           family_i={B\bibinitperiod},
+           given={T.},
+           given_i={T\bibinitperiod}}}%
+        {{hash=fa57957c1b734360decc0b63514c2952}{%
+           family={Vallières},
+           family_i={V\bibinitperiod},
+           given={F.},
+           given_i={F\bibinitperiod}}}%
+        {{hash=b7ccc640b041708385fc8b58f7ca668a}{%
+           family={Carr},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{hash=fa45eb25b2d22fd8c8647bf9916cc6c2}{%
+           family={Hitchcock},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+        {{hash=9079054166f9ac2b8ded68487d62dffa}{%
+           family={Gingras},
+           family_i={G\bibinitperiod},
+           given={Y.},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=2a774c001744bfb2524b3d7823934d6a}{%
+           family={Oppenheim},
+           family_i={O\bibinitperiod},
+           given={C.},
+           given_i={C\bibinitperiod}}}%
+        {{hash=dc18fff0a638f0c7e2a9b0eeeca9ae51}{%
+           family={Hajjem},
+           family_i={H\bibinitperiod},
+           given={C.},
+           given_i={C\bibinitperiod}}}%
+        {{hash=121727d03cf1d32e4313f970e4621199}{%
+           family={Hilf},
+           family_i={H\bibinitperiod},
+           given={E.\bibnamedelimi R.},
+           given_i={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a4698d8ccaf8782d5c6819e0bee1080}
+      \strng{fullhash}{04b47fa04f8be89b53c409ec7221e88d}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0098-7913}
+      \field{journaltitle}{Serials Review}
+      \field{number}{1}
+      \field{title}{The Access/Impact Problem and the Green and Gold Roads to Open Access: An Update}
+      \field{volume}{34}
+      \field{year}{2008}
+      \field{pages}{36\bibrangedash 40}
+      \range{pages}{5}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.serrev.2007.12.005
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0098791307001530
+      \endverb
+    \endentry
+    \entry{harnad_raincoat}{online}{}
+      \name{author}{1}{}{%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
+      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Raincoat Science: 43 More Open Access Haikus}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://openaccess.eprints.org/index.php?/archives/648-Raincoat-Science-43-More-Open-Access-Haikus.html
+      \endverb
+    \endentry
+    \entry{harnad1995subversive}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2f4ac62d667dcb53f04fe1e7d4fe241a}{%
+           family={Okerson},
+           family_i={O\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+        {{hash=21f0dcbd0d0ccb93fb7886572ddebaec}{%
+           family={O'Donnell},
+           family_i={O\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           given_i={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association of Research Libraries}%
+      }
+      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
+      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Scholarly journals at the crossroads: A subversive proposal for electronic publishing}
+      \field{chapter}{1}
+      \field{title}{Subversive Proposal}
+      \field{year}{1995}
+    \endentry
+    \entry{boai}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{{Budapest Open Access Initiative}}
+      \field{year}{2002}
+      \verb{url}
+      \verb http://www.budapestopenaccessinitiative.org/read
+      \endverb
+    \endentry
+    \entry{harnad2004access}{article}{}
+      \name{author}{9}{}{%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+        {{hash=edc3402e4785bcec739d99964a9daae5}{%
+           family={Brody},
+           family_i={B\bibinitperiod},
+           given={T.},
+           given_i={T\bibinitperiod}}}%
+        {{hash=1ba98d94e17ab856367f6cfb87d9d412}{%
+           family={ValliÃ{\"{}}res},
+           family_i={V\bibinitperiod},
+           given={F.},
+           given_i={F\bibinitperiod}}}%
+        {{hash=b7ccc640b041708385fc8b58f7ca668a}{%
+           family={Carr},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{hash=fa45eb25b2d22fd8c8647bf9916cc6c2}{%
+           family={Hitchcock},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+        {{hash=9079054166f9ac2b8ded68487d62dffa}{%
+           family={Gingras},
+           family_i={G\bibinitperiod},
+           given={Y.},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=2a774c001744bfb2524b3d7823934d6a}{%
+           family={Oppenheim},
+           family_i={O\bibinitperiod},
+           given={C.},
+           given_i={C\bibinitperiod}}}%
+        {{hash=7eab69f7d3c39a60a367d0d8c363b8b7}{%
+           family={Stamerjohanns},
+           family_i={S\bibinitperiod},
+           given={H.},
+           given_i={H\bibinitperiod}}}%
+        {{hash=121727d03cf1d32e4313f970e4621199}{%
+           family={Hilf},
+           family_i={H\bibinitperiod},
+           given={E.\bibnamedelimi R.},
+           given_i={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{3a4698d8ccaf8782d5c6819e0bee1080}
+      \strng{fullhash}{84144d53d0a4ff158a64df6ca606a16c}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Serials review}
+      \field{number}{4}
+      \field{title}{The access/impact problem and the green and gold roads to open access}
+      \field{volume}{30}
+      \field{year}{2004}
+      \field{pages}{310\bibrangedash 314}
+      \range{pages}{5}
+    \endentry
+    \entry{houghton2013planting}{article}{}
+      \name{author}{2}{}{%
+        {{hash=65f0111df9b4117a395140e31ffd3686}{%
+           family={Houghton},
+           family_i={H\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=461a94bedadc30db1b1dabc896d22f91}{%
+           family={Swan},
+           family_i={S\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea5e17e4557b9b50118b81d245632dec}
+      \strng{fullhash}{ea5e17e4557b9b50118b81d245632dec}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{D-lib magazine}
+      \field{number}{1/2}
+      \field{title}{Planting the Green Seeds for a Golden Harvest: Comments and Clarifications on \enquote{{Going for Gold}}}
+      \field{volume}{19}
+      \field{year}{2013}
+      \verb{url}
+      \verb https://doi.org/10.1045/january2013-houghton
+      \endverb
+    \endentry
+    \entry{gargouri2010self}{article}{}
+      \name{author}{7}{}{%
+        {{hash=20dfac4000dd6d67e6a6a7420d704ae5}{%
+           family={Gargouri},
+           family_i={G\bibinitperiod},
+           given={Y.},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=dc18fff0a638f0c7e2a9b0eeeca9ae51}{%
+           family={Hajjem},
+           family_i={H\bibinitperiod},
+           given={C.},
+           given_i={C\bibinitperiod}}}%
+        {{hash=e62906b6ce0d3c4f352c0d41a7971662}{%
+           family={Larivière},
+           family_i={L\bibinitperiod},
+           given={V.},
+           given_i={V\bibinitperiod}}}%
+        {{hash=9079054166f9ac2b8ded68487d62dffa}{%
+           family={Gingras},
+           family_i={G\bibinitperiod},
+           given={Y.},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=b7ccc640b041708385fc8b58f7ca668a}{%
+           family={Carr},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{hash=edc3402e4785bcec739d99964a9daae5}{%
+           family={Brody},
+           family_i={B\bibinitperiod},
+           given={T.},
+           given_i={T\bibinitperiod}}}%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{91ad68ba35525ef68c1a9e2aa20d20df}
+      \strng{fullhash}{aa418e283f6c807cc7c6fabb8c3d31f1}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{10}
+      \field{title}{Self-selected or mandated, open access increases citation impact for higher quality research}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{pages}{e13636}
+      \range{pages}{-1}
+      \verb{url}
+      \verb https://doi.org/10.1371/journal.pone.0013636
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 

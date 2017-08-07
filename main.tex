@@ -2,7 +2,7 @@
 \usepackage{lipsum}
 \usepackage{fontspec}
 \usepackage{csquotes}
-\usepackage[backend=biber, style=phys, hyperref]{biblatex}
+\usepackage[backend=biber, style=phys, hyperref, url=false, sorting=none]{biblatex}
 \usepackage{hyperref}
 
 \addbibresource{references.bib}
@@ -30,6 +30,7 @@
 \setlength{\parskip}{0pt}
 \newlength{\postabstractskip}
 \setlength{\postabstractskip}{15pt}
+\urlstyle{rm}
 
 % \setbeforesecskip{2.5ex plus 1ex minus .2ex}
 % \setaftersecskip{2.5ex plus 1ex minus .2ex}
@@ -55,41 +56,111 @@
   \maketitle
   \vspace{-15pt}
   \begin{onecolabstract}
-    \noindent Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    \noindent Universal free online access of scientific journal articles is
+    within reach if universities and funders mandate their authors to
+    self-archive their refereed manuscripts in an institutional archive (IR),
+    upon acceptance in the (subscription) journals of their choice. This form
+    of \emph{Green} open access (OA) can be implemented unilaterally by the
+    universities and funders at little cost. It should not be confused with
+    \emph{Gold} OA, meaning OA through \emph{publishing} directly in an OA
+    journal.
+
+    I claim that the Dutch government and the association of universities
+    (VSNU), by focussing on Gold prematurely, have made deals that will
+    needlessly slow down the provision of access and maintain or even increase
+    the publishers' profit margins. Sustainable Gold access (including
+    copyright reform) will follow once universal Green has been reached and
+    publishers only provide the organisation of peer-review and luxury services
+    like enhanced PDFs or paper versions.
+
+    Grassroots publishing initiatives, such as SciPost, politicize the
+    community by offering a glimpse of a possible future. But if they are
+    serious about subverting the publishing industry, they should, in addition to
+    their innovative activities, put their full weight behind the optimal Green
+    mandate.
   \end{onecolabstract}
   \vspace{\postabstractskip}
 ]
-% \begin{abstract}
-%   I will argue that the current Dutch open access (OA) mandates are far from
-%   optimal, both in duration of the transition period and cost. Instead of
-%   pre-emptively focussing on open access journal publishing (Gold OA),
-%   universities and funders should adopt an effective self-archiving
-%   mandate (Green OA).
-%
-%   From this analysis it follows that
-%
-% \end{abstract}
 
 \section{Introduction}
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\section{Raincoat science}
-UC Berkeley (2010) Selective List of Open Access and Paid Access Fees
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The current accessibility of research journal articles is decidedly
+suboptimal. Journal prices have been rising at 2.5 times the rate of
+inflation the last couple of decades \cite{monograph_serial_costs,
+suber2008open}, but even if all 40000 existing journals could be
+subscribed to at production cost, universities would not be able to afford
+them all \cite{harnad2008access}. This means that all researchers, even at
+the richest institutions, do not have full access to the output of their
+colleagues, and all researchers are denied the full impact of their
+research, since they cannot reach the entirety of their intended audience.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It is unbearable that this \emph{access/impact problem} still persists,
+because with the advent of the Web, articles can be reproduced and spread
+at virtually no cost. Doubly unbearable, since the whole enterprise is
+funded with tax-payer money for the benefit of society. 
 
-\section{The SciPost model}
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The solution to the problem is, according to Stevan Harnad, closer to
+raincoat science than rocket science \cite{harnad_raincoat}.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\blockquote{%
+It's the online age\\
+You're losing research impact\dots \\
+Make it free online}
 
-\printbibliography
+\begin{figure}
+  \includegraphics[width=\columnwidth]{rain4.jpg}
+  \caption{Raincoat science by Judith Economos}
+\end{figure}
+
+In other words, authors can continue publishing in subscription journals,
+but should as an extra adminstrative step \emph{publicly self-archive}
+their refereed manuscripts. This practice, which Harnad has been
+advocating since 1994 \cite{harnad1995subversive}, was laid out by the
+Budapest Open Access Initiative (BOAI) as the first strategy to be
+implemented \cite{boai}. It later came to be known as the \emph{Green}
+strategy \cite{harnad2004access}. If it is universally adopted, the
+access/impact problem would be solved.
+
+Apart from public self-archiving (the \enquote{Green} road), the BOAI
+described a complimentary \emph{Gold} strategy, namely to start a new
+generation of journals that provide open access to the material they
+publish. It is this second strategy that often has been misunderstood to
+be the \emph{only} viable strategy of providing open access, by
+scientists, media and politicians alike.
+
+This is very unfortunate, since the Green solution is by far the most
+cost-effective way of providing access \cite{houghton2013planting}, can be
+decided on by universities and funders unilaterally, without having to
+convince publishers to alter their business model, and it does not limit
+authors' choices of journals in which they wish to publish.
+
+Furthermore, it is plausible that once universal Green open access has
+been achieved, 
+
+\section{Raincoat science: the optimal open access policy}
+
+Another solution
+
+
+
+
+
+
+
+
+
+
+\section{To cite}
+\begin{itemize}
+  \item self-selected or mandated: oa increases impact \cite{gargouri2010self}
+  \item green is most cost-effective strategy \cite{houghton2013planting}
+\end{itemize}
+
+\twocolumn[
+   \begin{@twocolumnfalse}
+     \printbibliography
+   \end{@twocolumnfalse}
+]
 
 \end{document}

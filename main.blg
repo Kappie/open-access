@@ -1,9 +1,19 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
 [0] Config.pm:346> INFO - Logfile is 'main.blg'
-[63] biber-darwin:290> INFO - === Wed Aug  2, 2017, 16:07:22
-[90] Biber.pm:351> INFO - Reading 'main.bcf'
-[195] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
-[203] Utils.pm:149> WARN - The file 'main.bcf' does not contain any citations!
-[211] bbl.pm:526> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[211] bbl.pm:619> INFO - Output to main.bbl
-[211] Biber.pm:108> INFO - WARNINGS: 1
+[77] biber-darwin:290> INFO - === Mon Aug  7, 2017, 16:39:26
+[112] Biber.pm:351> INFO - Reading 'main.bcf'
+[233] Biber.pm:776> INFO - Found 9 citekeys in bib section 0
+[249] Biber.pm:3493> INFO - Processing section 0
+[287] Biber.pm:3657> INFO - Looking for bibtex format file 'references.bib' for section 0
+[291] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[294] bibtex.pm:1048> INFO - Found BibTeX data source 'references.bib'
+[296] Utils.pm:149> WARN - Duplicate entry key: 'sale2010open' in file 'references.bib', skipping ...
+[321] Utils.pm:149> WARN - BibTeX subsystem: /var/folders/lp/l586rq_55yj27pb66zljnw0m0000gn/T/Cx265pbzXN/references.bib_37916.utf8, line 2, warning: 50 characters of junk seen at toplevel
+[322] Utils.pm:149> WARN - The field 'note' in entry 'harnad2008access' cannot be null, deleting it
+[343] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[343] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[343] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
+[343] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[353] bbl.pm:526> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[355] bbl.pm:619> INFO - Output to main.bbl
+[355] Biber.pm:108> INFO - WARNINGS: 3

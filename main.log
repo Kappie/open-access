@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.10.6)  1 JUL 2017 12:09
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.10.6)  6 AUG 2017 22:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -33,8 +33,8 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/memoir/mem12.clo
-File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
+(/usr/local/texlive/2016/texmf-dist/tex/latex/memoir/mem11.clo
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 )
 \binding=\skip48
 \spinemargin=\skip49
@@ -686,107 +686,461 @@ Package csquotes Info: ... configuration file loaded successfully.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/05/14 v3.4 programmable bibliographies (PK/JW/AB)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count179
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count180
+\decimalpart=\count181
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count182
+\c@listtotal=\count183
+\c@listcount=\count184
+\c@liststart=\count185
+\c@liststop=\count186
+\c@citecount=\count187
+\c@citetotal=\count188
+\c@multicitecount=\count189
+\c@multicitetotal=\count190
+\c@instcount=\count191
+\c@maxnames=\count192
+\c@minnames=\count193
+\c@maxitems=\count194
+\c@minitems=\count266
+\c@citecounter=\count267
+\c@savedcitecounter=\count268
+\c@uniquelist=\count269
+\c@uniquename=\count270
+\c@refsection=\count271
+\c@refsegment=\count272
+\c@maxextratitle=\count273
+\c@maxextratitleyear=\count274
+\c@maxextrayear=\count275
+\c@maxextraalpha=\count276
+\c@abbrvpenalty=\count277
+\c@highnamepenalty=\count278
+\c@lownamepenalty=\count279
+\c@maxparens=\count280
+\c@parenlevel=\count281
+\blx@tempcnta=\count282
+\blx@tempcntb=\count283
+\blx@tempcntc=\count284
+\blx@maxsection=\count285
+\blx@maxsegment@0=\count286
+\blx@notetype=\count287
+\blx@parenlevel@text=\count288
+\blx@parenlevel@foot=\count289
+\blx@sectionciteorder@0=\count290
+\labelnumberwidth=\skip191
+\labelalphawidth=\skip192
+\biblabelsep=\skip193
+\bibnamesep=\skip194
+\bibinitsep=\skip256
+\bibparsep=\skip257
+\bibhang=\skip258
+\blx@bcfin=\read3
+\blx@bcfout=\write5
+\c@mincomprange=\count291
+\c@maxcomprange=\count292
+\c@mincompwidth=\count293
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'phys.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count294
+\c@savedafterword=\count295
+\c@annotator=\count296
+\c@savedannotator=\count297
+\c@author=\count298
+\c@savedauthor=\count299
+\c@bookauthor=\count300
+\c@savedbookauthor=\count301
+\c@commentator=\count302
+\c@savedcommentator=\count303
+\c@editor=\count304
+\c@savededitor=\count305
+\c@editora=\count306
+\c@savededitora=\count307
+\c@editorb=\count308
+\c@savededitorb=\count309
+\c@editorc=\count310
+\c@savededitorc=\count311
+\c@foreword=\count312
+\c@savedforeword=\count313
+\c@holder=\count314
+\c@savedholder=\count315
+\c@introduction=\count316
+\c@savedintroduction=\count317
+\c@namea=\count318
+\c@savednamea=\count319
+\c@nameb=\count320
+\c@savednameb=\count321
+\c@namec=\count322
+\c@savednamec=\count323
+\c@translator=\count324
+\c@savedtranslator=\count325
+\c@shortauthor=\count326
+\c@savedshortauthor=\count327
+\c@shorteditor=\count328
+\c@savedshorteditor=\count329
+\c@labelname=\count330
+\c@savedlabelname=\count331
+\c@institution=\count332
+\c@savedinstitution=\count333
+\c@lista=\count334
+\c@savedlista=\count335
+\c@listb=\count336
+\c@savedlistb=\count337
+\c@listc=\count338
+\c@savedlistc=\count339
+\c@listd=\count340
+\c@savedlistd=\count341
+\c@liste=\count342
+\c@savedliste=\count343
+\c@listf=\count344
+\c@savedlistf=\count345
+\c@location=\count346
+\c@savedlocation=\count347
+\c@organization=\count348
+\c@savedorganization=\count349
+\c@origlocation=\count350
+\c@savedoriglocation=\count351
+\c@origpublisher=\count352
+\c@savedorigpublisher=\count353
+\c@publisher=\count354
+\c@savedpublisher=\count355
+\c@language=\count356
+\c@savedlanguage=\count357
+\c@pageref=\count358
+\c@savedpageref=\count359
+\shorthandwidth=\skip259
+\shortjournalwidth=\skip260
+\shortserieswidth=\skip261
+\shorttitlewidth=\skip262
+\shortauthorwidth=\skip263
+\shorteditorwidth=\skip264
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
+\c@textcitecount=\count360
+\c@textcitetotal=\count361
+\c@textcitemaxnames=\count362
+\c@biburlnumpenalty=\count363
+\c@biburlucpenalty=\count364
+\c@biburllcpenalty=\count365
+\c@smartand=\count366
+)
+Package biblatex Info: Trying to load bibliography style 'phys'...
+Package biblatex Info: ... file 'phys.bbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-phys/phys.bbx
+File: phys.bbx 2016/03/13 v1.0a biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count367
+\c@bbx:relatedtotal=\count368
+))))
+Package biblatex Info: Trying to load citation style 'phys'...
+Package biblatex Info: ... file 'phys.cbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-phys/phys.cbx
+File: phys.cbx 2016/03/13 v1.0a biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2016/05/14 v3.4 biblatex citation style (PK/JW/AB)
+\c@cbx@tempcnta=\count369
+\c@cbx@tempcntb=\count370
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+))
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen183
+\Hy@linkcounter=\count371
+\Hy@pagecounter=\count372
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count373
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4446.
+Package hyperref Info: Link nesting OFF on input line 4451.
+Package hyperref Info: Hyper index ON on input line 4454.
+Package hyperref Info: Plain pages OFF on input line 4461.
+Package hyperref Info: Backreferencing OFF on input line 4466.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4691.
+\c@Hy@tempcnt=\count374
+LaTeX Info: Redefining \url on input line 5044.
+\XeTeXLinkMargin=\dimen184
+\Fld@menulength=\count375
+\Field@Width=\dimen185
+\Fld@charsize=\dimen186
+Package hyperref Info: Hyper figures OFF on input line 6298.
+Package hyperref Info: Link nesting OFF on input line 6303.
+Package hyperref Info: Hyper index ON on input line 6306.
+Package hyperref Info: backreferencing OFF on input line 6313.
+Package hyperref Info: Link coloring OFF on input line 6318.
+Package hyperref Info: Link coloring with OCG OFF on input line 6323.
+Package hyperref Info: PDF/A mode OFF on input line 6328.
+LaTeX Info: Redefining \ref on input line 6368.
+LaTeX Info: Redefining \pageref on input line 6372.
+\Hy@abspage=\count376
+\c@Item=\count377
+\c@Hfootnote=\count378
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
+ass
+\c@memhycontfloat=\count379
+\c@Hpagenote=\count380
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2016/05/05 v6.83n Hyperref driver for XeTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2016/05/05 v6.83n Hyperref: PDF Unicode definition (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box45
+\c@Hy@AnnotLevel=\count381
+\HyField@AnnotCount=\count382
+\Fld@listcount=\count383
+\c@bookmark@seq@number=\count384
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip265
+)
+\g__fontspec_family_MinionPro_int=\count385
 .................................................
-. fontspec info: "no-scripts"
+. fontspec info: "defining-font"
 . 
-. Font Miller Text does not contain any OpenType `Script' information.
+. Font family 'MinionPro(0)' created for font 'Minion Pro' with options
+. [Ligatures=TeX,BoldFont={Minion Pro Bold},ItalicFont={Minion Pro
+. Italic},BoldItalicFont={Minion Pro Bold Italic}].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.: <->"Minion
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Minion
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'bold' (bx/n)
+. with NFSS spec.: <->"Minion Pro
+. Bold/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Minion Pro
+. Bold/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'italic' (m/it)
+. with NFSS spec.: <->"Minion Pro
+. Italic/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Minion Pro
+. Italic/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"- 'bold italic'
+. (bx/it) with NFSS spec.: <->"Minion Pro Bold
+. Italic/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Minion Pro Bold
+. Italic/OT:script=latn;language=DFLT;mapping=tex-text;+smcp;"
 .................................................
-\g__fontspec_family_MillerText_int=\count179
+\g__fontspec_family_Consolas_int=\count386
 .................................................
 . fontspec info: "no-font-shape"
 . 
-. Could not resolve font Miller Text Italic/B (it probably doesn't exist).
+. Could not resolve font Consolas/BI (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Consolas/B (it probably doesn't exist).
+.................................................
+.................................................
+. fontspec info: "no-font-shape"
+. 
+. Could not resolve font Consolas/I (it probably doesn't exist).
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'MillerText(0)' created for font 'Miller Text' with options
-. [Ligatures=TeX,BoldFont={Miller Text Bold},ItalicFont={Miller Text Italic}].
+. Font family 'Consolas(0)' created for font 'Consolas' with options
+. [Ligatures=TeX].
 . 
 . This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"Miller Text/OT:mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
-. <->"Miller Text Bold/OT:mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
-. spec.: <->"Miller Text Italic/OT:mapping=tex-text;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
-. with NFSS spec.: <->"Miller Text Bold/I/OT:mapping=tex-text;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+. - 'normal' (m/n) with NFSS spec.:
+. <->"Consolas/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-\g__fontspec_family_ChronicleDisplayBlack_int=\count180
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font Chronicle Display Black Italic/B (it probably doesn't
-. exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font Chronicle Display Black/B (it probably doesn't
-. exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'ChronicleDisplayBlack(0)' created for font 'Chronicle Display
-. Black' with options [ItalicFont={Chronicle Display Black Italic}].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"Chronicle Display
-. Black/OT:script=latn;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: - 'italic' (m/it) with NFSS spec.:
-. <->"Chronicle Display Black Italic/OT:script=latn;language=DFLT;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
-. with NFSS spec.: <->"Chronicle Display
-. Black/BI/OT:script=latn;language=DFLT;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
-.................................................
-\g__fontspec_family_ChronicleDisplayLight_int=\count181
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'ChronicleDisplayLight(0)' created for font 'Chronicle Display
-. Light' with options [].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"Chronicle Display
-. Light/OT:script=latn;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
-. <->"Chronicle Display Light/B/OT:script=latn;language=DFLT;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: - 'italic' (m/it) with NFSS
-. spec.: <->"Chronicle Display Light/I/OT:script=latn;language=DFLT;"
-. - 'italic small caps'  (m/itsc) with NFSS spec.: - 'bold italic' (bx/it)
-. with NFSS spec.: <->"Chronicle Display
-. Light/BI/OT:script=latn;language=DFLT;"
-. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
-.................................................
+\postabstractskip=\skip266
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
 
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
+)
 (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 42.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 42.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -794,132 +1148,132 @@ LaTeX Font Info:    ... okay on input line 22.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
-LaTeX Font Info:    Redeclaring math accent \check on input line 22.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 42.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 42.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 42.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 42.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 42.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 42.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 42.
+LaTeX Font Info:    Redeclaring math accent \check on input line 42.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 42.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 42.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 42.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 42.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 42.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 22.
+(Font)              `operators' in the math version `normal' on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/MillerText(0)/m/n on input line 22.
-
+(Font)                  OT1/cmr/m/n --> EU1/MinionPro(0)/m/n on input line 42.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 22.
+(Font)              `operators' in the math version `bold' on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/MillerText(0)/m/n on input line 22
-.
+(Font)                  OT1/cmr/bx/n --> EU1/MinionPro(0)/m/n on input line 42.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/MillerText(0)/m/n --> EU1/MillerText(0)/m/n on inpu
-t line 22.
+(Font)                  EU1/MinionPro(0)/m/n --> EU1/MinionPro(0)/m/n on input 
+line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/MillerText(0)/m/it on input line 2
-2.
+(Font)                  OT1/cmr/m/it --> EU1/MinionPro(0)/m/it on input line 42
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/MillerText(0)/bx/n on input line 2
-2.
+(Font)                  OT1/cmr/bx/n --> EU1/MinionPro(0)/bx/n on input line 42
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 22.
+(Font)                  OT1/cmss/m/n --> EU1/Consolas(0)/m/n on input line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 42.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/MillerText(0)/m/n --> EU1/MillerText(0)/bx/n on inp
-ut line 22.
+(Font)                  EU1/MinionPro(0)/m/n --> EU1/MinionPro(0)/bx/n on input
+ line 42.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/MillerText(0)/bx/it on input line
- 22.
+(Font)                  OT1/cmr/bx/it --> EU1/MinionPro(0)/bx/it on input line 
+42.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 22.
+(Font)                  OT1/cmss/bx/n --> EU1/Consolas(0)/bx/n on input line 42
+.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 42.
+Package biblatex Info: XeTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout5 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+
+(./main.bbl)
+Package biblatex Info: Reference section=0 on input line 42.
+Package biblatex Info: Reference segment=0 on input line 42.
+\AtBeginShipoutBox=\box46
+Package hyperref Info: Link coloring OFF on input line 42.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count387
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
+(./main.out) (./main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 29.
+(Font)              <12> on input line 67.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 29.
+(Font)              <8> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 67.
 
-Underfull \hbox (badness 1308) in paragraph at lines 57--62
-[]\EU1/MillerText(0)/m/n/12 Self-congratulating tone of the Nether-
- []
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
-
-Underfull \vbox (badness 3919) has occurred while \output is active []
-
- [1
+)
+[1
 
 
 ]
-Underfull \hbox (badness 4518) in paragraph at lines 80--86
-\EU1/MillerText(0)/m/n/12 toe zijn en onderling afspraken
- []
 
+LaTeX Warning: Empty bibliography on input line 93.
 
-Underfull \hbox (badness 5260) in paragraph at lines 80--86
-\EU1/MillerText(0)/m/n/12 kunnen maken. Een te lange
- []
+[2
 
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
+ (./main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 95.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 95.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
 
-Underfull \hbox (badness 4193) in paragraph at lines 80--86
-\EU1/MillerText(0)/m/n/12 transitieperiode brengt onnodige
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 80--86
-\EU1/MillerText(0)/m/n/12 kosten met zich mee, omdat de
- []
-
-
-Underfull \hbox (badness 2922) in paragraph at lines 80--86
-\EU1/MillerText(0)/m/n/12 in tijdschriften. Een duidelijke
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--94
-\EU1/MillerText(0)/m/n/12 universiteiten, NWO, KNAW,
- []
-
-
-Underfull \hbox (badness 7540) in paragraph at lines 89--94
-\EU1/MillerText(0)/m/n/12 bij Open Access om resultaten
- []
-
-
-Underfull \hbox (badness 2088) in paragraph at lines 89--94
-\EU1/MillerText(0)/m/n/12 te verspreiden maar ook bij het
- []
-
-
-Underfull \hbox (badness 2020) in paragraph at lines 89--94
-\EU1/MillerText(0)/m/n/12 case zijn die gebaseerd is op in
- []
-
-[2] (./main.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 17931 strings out of 493591
- 332774 string characters out of 6143546
- 469857 words of memory out of 5000000
- 21246 multiletter control sequences out of 15000+600000
- 5367 words of font info for 46 fonts, out of 8000000 for 9000
+ 30213 strings out of 493591
+ 533066 string characters out of 6143546
+ 1038348 words of memory out of 5000000
+ 33412 multiletter control sequences out of 15000+600000
+ 7519 words of font info for 49 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,10n,62p,10365b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,10n,61p,10365b,3284s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (2 pages).

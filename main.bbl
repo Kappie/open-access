@@ -195,8 +195,8 @@
            family_i={B\bibinitperiod},
            given={T.},
            given_i={T\bibinitperiod}}}%
-        {{hash=1ba98d94e17ab856367f6cfb87d9d412}{%
-           family={ValliÃ{\"{}}res},
+        {{hash=fa57957c1b734360decc0b63514c2952}{%
+           family={Vallières},
            family_i={V\bibinitperiod},
            given={F.},
            given_i={F\bibinitperiod}}}%
@@ -235,7 +235,7 @@
         {Taylor \& Francis}%
       }
       \strng{namehash}{3a4698d8ccaf8782d5c6819e0bee1080}
-      \strng{fullhash}{84144d53d0a4ff158a64df6ca606a16c}
+      \strng{fullhash}{06c236ff40f3d43cd45e4a6ee08acebc}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labelnamesource}{author}
@@ -274,6 +274,153 @@
       \field{year}{2013}
       \verb{url}
       \verb https://doi.org/10.1045/january2013-houghton
+      \endverb
+    \endentry
+    \entry{harnad2007green_road}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1bdfe3ebf566ed846fe0600bd367333c}{%
+           family={Gacs},
+           family_i={G\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {L'Harmattan}%
+      }
+      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
+      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Culture of Periodicals from the Perspective of the Electronic Age}
+      \field{title}{The Green Road to Open Access: A Leveraged Transition}
+      \field{year}{2007}
+      \field{pages}{99\bibrangedash 106}
+      \range{pages}{8}
+    \endentry
+    \entry{harnad2015openwhat}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=493b201f2a2314fef711f578c01786e5}{%
+           family={Holbrook},
+           family_i={H\bibinitperiod},
+           given={J.\bibnamedelimi Britt},
+           given_i={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=de6cc54e2b46b18d64625af092a6761f}{%
+           family={Mitcham},
+           family_i={M\bibinitperiod},
+           given={Carl},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan Reference}%
+      }
+      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
+      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ethics, Science, Technology, and Engineering: An International Resource}
+      \field{title}{Open access: what, where, when, how and why}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://eprints.soton.ac.uk/361704/
+      \endverb
+      \keyw{open access,institutional repositories,mandates}
+    \endentry
+    \entry{vincent2016estimating}{article}{}
+      \name{author}{5}{}{%
+        {{hash=fe803925174188d7fd5a413217e0d186}{%
+           family={Vincent-Lamarre},
+           family_i={V\bibinithyphendelim L\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+        {{hash=fee78bd45984668b67ccecfcdba583ce}{%
+           family={Boivin},
+           family_i={B\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=20dfac4000dd6d67e6a6a7420d704ae5}{%
+           family={Gargouri},
+           family_i={G\bibinitperiod},
+           given={Y.},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=e62906b6ce0d3c4f352c0d41a7971662}{%
+           family={Larivière},
+           family_i={L\bibinitperiod},
+           given={V.},
+           given_i={V\bibinitperiod}}}%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{0a3b058920d87fd03fc9cb9607ed8ce2}
+      \strng{fullhash}{e1fb3581e7ba18058b74366c34f4bd3c}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Association for Information Science and Technology}
+      \field{number}{11}
+      \field{title}{Estimating open access mandate effectiveness: The {MELIBEA} score}
+      \field{volume}{67}
+      \field{year}{2016}
+      \field{pages}{2815\bibrangedash 2828}
+      \range{pages}{14}
+      \verb{url}
+      \verb https://doi.org/10.1002/asi.23601
+      \endverb
+    \endentry
+    \entry{harnad2006opening}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9757855fad7c8101d60ec7249051acdb}{%
+           family={Jacobs},
+           family_i={J\bibinitperiod},
+           given={N},
+           given_i={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Chandos}%
+      }
+      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
+      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Open Access: Key Strategic, Technical and Economic Aspects}
+      \field{note}{Chapter: 8}
+      \field{title}{Opening Access by Overcoming Zeno's Paralysis}
+      \field{year}{2006}
+      \verb{url}
+      \verb https://eprints.soton.ac.uk/262094/
       \endverb
     \endentry
     \entry{gargouri2010self}{article}{}
@@ -332,6 +479,161 @@
       \range{pages}{-1}
       \verb{url}
       \verb https://doi.org/10.1371/journal.pone.0013636
+      \endverb
+    \endentry
+    \entry{bjork2014anatomy}{article}{}
+      \name{author}{4}{}{%
+        {{hash=26468bb82a4cbf280c07122e2da7a4d8}{%
+           family={Björk},
+           family_i={B\bibinitperiod},
+           given={B.},
+           given_i={B\bibinitperiod}}}%
+        {{hash=18122bc7936e4af7a93735de24681f29}{%
+           family={Laakso},
+           family_i={L\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=91bafc584d04dd5a7b232d1baeba3376}{%
+           family={Welling},
+           family_i={W\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+        {{hash=8b93e6d6c389e0d36468c712a19ef97c}{%
+           family={Paetau},
+           family_i={P\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{c27cef3dc0a82fb2abca5cb68a195669}
+      \strng{fullhash}{5c57cb186f4c74c7c021cd4b6871724b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2330-1643}
+      \field{journaltitle}{Journal of the Association for Information Science and Technology}
+      \field{number}{2}
+      \field{title}{Anatomy of green open access}
+      \field{volume}{65}
+      \field{year}{2014}
+      \field{pages}{237\bibrangedash 250}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1002/asi.22963
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1002/asi.22963
+      \endverb
+    \endentry
+    \entry{bjork2010open}{article}{}
+      \name{author}{6}{}{%
+        {{hash=26468bb82a4cbf280c07122e2da7a4d8}{%
+           family={Björk},
+           family_i={B\bibinitperiod},
+           given={B.},
+           given_i={B\bibinitperiod}}}%
+        {{hash=91bafc584d04dd5a7b232d1baeba3376}{%
+           family={Welling},
+           family_i={W\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+        {{hash=18122bc7936e4af7a93735de24681f29}{%
+           family={Laakso},
+           family_i={L\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=ef22c120224ca0b534ecd69ff7e7226e}{%
+           family={Majlender},
+           family_i={M\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+        {{hash=a398b4eca03e17578cec12ae490ca4c6}{%
+           family={Hedlund},
+           family_i={H\bibinitperiod},
+           given={T.},
+           given_i={T\bibinitperiod}}}%
+        {{hash=5a299ddaa13049b8c7d1ba5e2d80e9f5}{%
+           family={Gu{ð}nason},
+           family_i={G\bibinitperiod},
+           given={G.},
+           given_i={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{c27cef3dc0a82fb2abca5cb68a195669}
+      \strng{fullhash}{79b9ef93d2ed2088119a92015bc3d010}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PloS one}
+      \field{number}{6}
+      \field{title}{Open access to the scientific journal literature: situation 2009}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{pages}{e11273}
+      \range{pages}{-1}
+      \verb{url}
+      \verb https://doi.org/10.1371/journal.pone.0011273
+      \endverb
+    \endentry
+    \entry{sale2010open}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=66485f4f5ad8af92f02aea5f91cbd222}{%
+           family={Sale},
+           family_i={S\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+        {{hash=620d372923d5f00ef39c11d7b8a8a7f0}{%
+           family={Couture},
+           family_i={C\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=3ecd9c4d9d29624a278504076faaef2b}{%
+           family={Rodrigues},
+           family_i={R\bibinitperiod},
+           given={E.},
+           given_i={E\bibinitperiod}}}%
+        {{hash=b7ccc640b041708385fc8b58f7ca668a}{%
+           family={Carr},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=eaf3bd97499b13c331ea1a16f79ad85e}{%
+           family={Coombe},
+           family_i={C\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           given_i={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7a45cb2182c958948a8f315c5ea3322b}{%
+           family={Wershler},
+           family_i={W\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Toronto Press}%
+      }
+      \strng{namehash}{38f9c93aed33f0b30c9aca6b4c16f9bf}
+      \strng{fullhash}{0f42b34d188d82ecb457684d84fef826}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dynamic Fair Dealing: Creating Canadian Culture Online}
+      \field{title}{Open access mandates and the {\enquote{fair dealing}} button}
+      \field{year}{2010}
+      \field{pages}{189\bibrangedash 200}
+      \range{pages}{12}
+      \verb{url}
+      \verb https://arxiv.org/abs/1002.3074
       \endverb
     \endentry
   \endsortlist

@@ -2085,8 +2085,14 @@
     <bcf:citekey order="5">boai</bcf:citekey>
     <bcf:citekey order="6">harnad2004access</bcf:citekey>
     <bcf:citekey order="7">houghton2013planting</bcf:citekey>
-    <bcf:citekey order="8">gargouri2010self</bcf:citekey>
-    <bcf:citekey order="9">houghton2013planting</bcf:citekey>
+    <bcf:citekey order="8">harnad2007green_road</bcf:citekey>
+    <bcf:citekey order="9">harnad2015openwhat</bcf:citekey>
+    <bcf:citekey order="10">vincent2016estimating</bcf:citekey>
+    <bcf:citekey order="11">harnad2006opening</bcf:citekey>
+    <bcf:citekey order="12">gargouri2010self</bcf:citekey>
+    <bcf:citekey order="13">bjork2014anatomy</bcf:citekey>
+    <bcf:citekey order="14">bjork2010open</bcf:citekey>
+    <bcf:citekey order="15">sale2010open</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

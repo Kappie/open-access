@@ -2086,13 +2086,26 @@
     <bcf:citekey order="6">harnad2004access</bcf:citekey>
     <bcf:citekey order="7">houghton2013planting</bcf:citekey>
     <bcf:citekey order="8">harnad2007green_road</bcf:citekey>
-    <bcf:citekey order="9">harnad2015openwhat</bcf:citekey>
-    <bcf:citekey order="10">vincent2016estimating</bcf:citekey>
-    <bcf:citekey order="11">harnad2006opening</bcf:citekey>
-    <bcf:citekey order="12">gargouri2010self</bcf:citekey>
-    <bcf:citekey order="13">bjork2014anatomy</bcf:citekey>
-    <bcf:citekey order="14">bjork2010open</bcf:citekey>
-    <bcf:citekey order="15">sale2010open</bcf:citekey>
+    <bcf:citekey order="9">gargouri2010self</bcf:citekey>
+    <bcf:citekey order="10">bjork2014anatomy</bcf:citekey>
+    <bcf:citekey order="11">bjork2010open</bcf:citekey>
+    <bcf:citekey order="12">bjork2014anatomy</bcf:citekey>
+    <bcf:citekey order="13">khabsa2014number</bcf:citekey>
+    <bcf:citekey order="14">archambault2013tipping</bcf:citekey>
+    <bcf:citekey order="15">bjork2014anatomy</bcf:citekey>
+    <bcf:citekey order="16">kim2010faculty</bcf:citekey>
+    <bcf:citekey order="17">harnad2015openwhat</bcf:citekey>
+    <bcf:citekey order="18">vincent2016estimating</bcf:citekey>
+    <bcf:citekey order="19">harnad2006opening</bcf:citekey>
+    <bcf:citekey order="20">gargouri2010self</bcf:citekey>
+    <bcf:citekey order="21">bjork2014anatomy</bcf:citekey>
+    <bcf:citekey order="22">bjork2010open</bcf:citekey>
+    <bcf:citekey order="23">sale2010open</bcf:citekey>
+    <bcf:citekey order="24">lariviere2014arxiv</bcf:citekey>
+    <bcf:citekey order="25">gentil2010citinghep</bcf:citekey>
+    <bcf:citekey order="26">khabsa2014number</bcf:citekey>
+    <bcf:citekey order="27">archambault2013tipping</bcf:citekey>
+    <bcf:citekey order="28">sherpa_romeo</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none/global/" type="entry" sortscheme="none" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>

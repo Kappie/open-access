@@ -1,19 +1,19 @@
 [0] Config.pm:343> INFO - This is Biber 2.5
-[0] Config.pm:346> INFO - Logfile is 'main.blg'
-[74] biber-darwin:290> INFO - === Tue Aug  8, 2017, 16:14:13
-[115] Biber.pm:351> INFO - Reading 'main.bcf'
-[234] Biber.pm:776> INFO - Found 23 citekeys in bib section 0
-[254] Biber.pm:3493> INFO - Processing section 0
-[289] Biber.pm:3657> INFO - Looking for bibtex format file 'references.bib' for section 0
-[293] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
-[296] bibtex.pm:1048> INFO - Found BibTeX data source 'references.bib'
-[341] Utils.pm:149> WARN - Datamodel: Entry 'sherpa_romeo' (references.bib): Invalid format '2017-8-8' of date field 'urldate' - ignoring
-[353] Utils.pm:149> WARN - BibTeX subsystem: /var/folders/lp/l586rq_55yj27pb66zljnw0m0000gn/T/vCLs7jcwnG/references.bib_70110.utf8, line 2, warning: 50 characters of junk seen at toplevel
-[357] Utils.pm:149> WARN - The field 'note' in entry 'harnad2008access' cannot be null, deleting it
-[389] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[389] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[390] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
-[390] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
-[414] bbl.pm:526> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[423] bbl.pm:619> INFO - Output to main.bbl
-[423] Biber.pm:108> INFO - WARNINGS: 3
+[1] Config.pm:346> INFO - Logfile is 'main.blg'
+[91] biber-darwin:290> INFO - === Tue Aug  8, 2017, 18:30:17
+[126] Biber.pm:351> INFO - Reading 'main.bcf'
+[248] Biber.pm:776> INFO - Found 23 citekeys in bib section 0
+[267] Biber.pm:3493> INFO - Processing section 0
+[295] Biber.pm:3657> INFO - Looking for bibtex format file 'references.bib' for section 0
+[299] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[302] bibtex.pm:1048> INFO - Found BibTeX data source 'references.bib'
+[349] Utils.pm:149> WARN - Datamodel: Entry 'sherpa_romeo' (references.bib): Invalid format '2017-8-8' of date field 'urldate' - ignoring
+[363] Utils.pm:149> WARN - BibTeX subsystem: /var/folders/lp/l586rq_55yj27pb66zljnw0m0000gn/T/EPpkL5IqgL/references.bib_76139.utf8, line 2, warning: 50 characters of junk seen at toplevel
+[366] Utils.pm:149> WARN - The field 'note' in entry 'harnad2008access' cannot be null, deleting it
+[407] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[407] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[407] Biber.pm:3306> INFO - Sorting list 'none/global/' of type 'entry' with scheme 'none' and locale 'en-US'
+[407] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[433] bbl.pm:526> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[442] bbl.pm:619> INFO - Output to main.bbl
+[443] Biber.pm:108> INFO - WARNINGS: 3

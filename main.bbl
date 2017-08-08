@@ -544,180 +544,47 @@
       \verb http://doi.org/10.1002/asi.21336
       \endverb
     \endentry
-    \entry{harnad2015openwhat}{unpublished}{}
+    \entry{brown2001evolution}{article}{}
       \name{author}{1}{}{%
-        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
-           family={Harnad},
-           family_i={H\bibinitperiod},
-           given={S.},
-           given_i={S\bibinitperiod}}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=493b201f2a2314fef711f578c01786e5}{%
-           family={Holbrook},
-           family_i={H\bibinitperiod},
-           given={J.\bibnamedelimi Britt},
-           given_i={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
-        {{hash=de6cc54e2b46b18d64625af092a6761f}{%
-           family={Mitcham},
-           family_i={M\bibinitperiod},
-           given={Carl},
+        {{hash=268b38b05cdd3edb09444551dbd9d74b}{%
+           family={Brown},
+           family_i={B\bibinitperiod},
+           given={C.},
            given_i={C\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Macmillan Reference}%
+        {John Wiley \& Sons, Inc.}%
       }
-      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
-      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
+      \strng{namehash}{268b38b05cdd3edb09444551dbd9d74b}
+      \strng{fullhash}{268b38b05cdd3edb09444551dbd9d74b}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Ethics, Science, Technology, and Engineering: An International Resource}
-      \field{title}{Open access: what, where, when, how and why}
-      \field{year}{2015}
-      \verb{url}
-      \verb https://eprints.soton.ac.uk/361704/
-      \endverb
-      \keyw{open access,institutional repositories,mandates}
-    \endentry
-    \entry{vincent2016estimating}{article}{}
-      \name{author}{5}{}{%
-        {{hash=fe803925174188d7fd5a413217e0d186}{%
-           family={Vincent-Lamarre},
-           family_i={V\bibinithyphendelim L\bibinitperiod},
-           given={P.},
-           given_i={P\bibinitperiod}}}%
-        {{hash=fee78bd45984668b67ccecfcdba583ce}{%
-           family={Boivin},
-           family_i={B\bibinitperiod},
-           given={J.},
-           given_i={J\bibinitperiod}}}%
-        {{hash=20dfac4000dd6d67e6a6a7420d704ae5}{%
-           family={Gargouri},
-           family_i={G\bibinitperiod},
-           given={Y.},
-           given_i={Y\bibinitperiod}}}%
-        {{hash=e62906b6ce0d3c4f352c0d41a7971662}{%
-           family={Larivière},
-           family_i={L\bibinitperiod},
-           given={V.},
-           given_i={V\bibinitperiod}}}%
-        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
-           family={Harnad},
-           family_i={H\bibinitperiod},
-           given={S.},
-           given_i={S\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{0a3b058920d87fd03fc9cb9607ed8ce2}
-      \strng{fullhash}{e1fb3581e7ba18058b74366c34f4bd3c}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of the Association for Information Science and Technology}
-      \field{number}{11}
-      \field{title}{Estimating open access mandate effectiveness: The {MELIBEA} score}
-      \field{volume}{67}
-      \field{year}{2016}
-      \field{pages}{2815\bibrangedash 2828}
+      \field{issn}{1532-2890}
+      \field{journaltitle}{Journal of the American Society for Information Science and Technology}
+      \field{number}{3}
+      \field{title}{The {E-volution} of preprints in the scholarly communication of physicists and astronomers}
+      \field{volume}{52}
+      \field{year}{2001}
+      \field{pages}{187\bibrangedash 200}
       \range{pages}{14}
+      \verb{doi}
+      \verb 10.1002/1097-4571(2000)9999:9999<::AID-ASI1586>3.0.CO;2-D
+      \endverb
       \verb{url}
-      \verb https://doi.org/10.1002/asi.23601
+      \verb http://dx.doi.org/10.1002/1097-4571(2000)9999:9999%3C::AID-ASI1586%3E3.0.CO;2-D
       \endverb
     \endentry
-    \entry{harnad2006opening}{unpublished}{}
-      \name{author}{1}{}{%
-        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
-           family={Harnad},
-           family_i={H\bibinitperiod},
-           given={S.},
-           given_i={S\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=9757855fad7c8101d60ec7249051acdb}{%
-           family={Jacobs},
-           family_i={J\bibinitperiod},
-           given={N},
-           given_i={N\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Chandos}%
-      }
-      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
-      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
+    \entry{sherpa_romeo}{online}{}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Open Access: Key Strategic, Technical and Economic Aspects}
-      \field{note}{Chapter: 8}
-      \field{title}{Opening Access by Overcoming Zeno's Paralysis}
-      \field{year}{2006}
+      \field{title}{Publisher copyright policies \& self-archiving}
       \verb{url}
-      \verb https://eprints.soton.ac.uk/262094/
+      \verb http://www.sherpa.ac.uk/romeo/index.php
       \endverb
-    \endentry
-    \entry{sale2010open}{incollection}{}
-      \name{author}{5}{}{%
-        {{hash=66485f4f5ad8af92f02aea5f91cbd222}{%
-           family={Sale},
-           family_i={S\bibinitperiod},
-           given={A.},
-           given_i={A\bibinitperiod}}}%
-        {{hash=620d372923d5f00ef39c11d7b8a8a7f0}{%
-           family={Couture},
-           family_i={C\bibinitperiod},
-           given={M.},
-           given_i={M\bibinitperiod}}}%
-        {{hash=3ecd9c4d9d29624a278504076faaef2b}{%
-           family={Rodrigues},
-           family_i={R\bibinitperiod},
-           given={E.},
-           given_i={E\bibinitperiod}}}%
-        {{hash=b7ccc640b041708385fc8b58f7ca668a}{%
-           family={Carr},
-           family_i={C\bibinitperiod},
-           given={L.},
-           given_i={L\bibinitperiod}}}%
-        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
-           family={Harnad},
-           family_i={H\bibinitperiod},
-           given={S.},
-           given_i={S\bibinitperiod}}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=eaf3bd97499b13c331ea1a16f79ad85e}{%
-           family={Coombe},
-           family_i={C\bibinitperiod},
-           given={R.\bibnamedelimi J.},
-           given_i={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=7a45cb2182c958948a8f315c5ea3322b}{%
-           family={Wershler},
-           family_i={W\bibinitperiod},
-           given={D.},
-           given_i={D\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {University of Toronto Press}%
-      }
-      \strng{namehash}{38f9c93aed33f0b30c9aca6b4c16f9bf}
-      \strng{fullhash}{0f42b34d188d82ecb457684d84fef826}
-      \field{sortinit}{0}
-      \field{sortinithash}{990108227b3316c02842d895999a0165}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Dynamic Fair Dealing: Creating Canadian Culture Online}
-      \field{title}{Open access mandates and the {\enquote{fair dealing}} button}
-      \field{year}{2010}
-      \field{pages}{189\bibrangedash 200}
-      \range{pages}{12}
-      \verb{url}
-      \verb https://arxiv.org/abs/1002.3074
-      \endverb
+      \warn{\item Datamodel: Entry 'sherpa_romeo' (references.bib): Invalid format '2017-8-8' of date field 'urldate' - ignoring}
     \endentry
     \entry{lariviere2014arxiv}{article}{}
       \name{author}{6}{}{%
@@ -814,15 +681,180 @@
       \verb https://doi.org/10.1007/s11192-009-0111-1
       \endverb
     \endentry
-    \entry{sherpa_romeo}{online}{}
+    \entry{harnad2006opening}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9757855fad7c8101d60ec7249051acdb}{%
+           family={Jacobs},
+           family_i={J\bibinitperiod},
+           given={N},
+           given_i={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Chandos}%
+      }
+      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
+      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Publisher copyright policies \& self-archiving}
+      \field{booktitle}{Open Access: Key Strategic, Technical and Economic Aspects}
+      \field{note}{Chapter: 8}
+      \field{title}{Opening Access by Overcoming Zeno's Paralysis}
+      \field{year}{2006}
       \verb{url}
-      \verb http://www.sherpa.ac.uk/romeo/index.php
+      \verb https://eprints.soton.ac.uk/262094/
       \endverb
-      \warn{\item Datamodel: Entry 'sherpa_romeo' (references.bib): Invalid format '2017-8-8' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{harnad2015openwhat}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=493b201f2a2314fef711f578c01786e5}{%
+           family={Holbrook},
+           family_i={H\bibinitperiod},
+           given={J.\bibnamedelimi Britt},
+           given_i={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=de6cc54e2b46b18d64625af092a6761f}{%
+           family={Mitcham},
+           family_i={M\bibinitperiod},
+           given={Carl},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan Reference}%
+      }
+      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
+      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Ethics, Science, Technology, and Engineering: An International Resource}
+      \field{title}{Open access: what, where, when, how and why}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://eprints.soton.ac.uk/361704/
+      \endverb
+      \keyw{open access,institutional repositories,mandates}
+    \endentry
+    \entry{vincent2016estimating}{article}{}
+      \name{author}{5}{}{%
+        {{hash=fe803925174188d7fd5a413217e0d186}{%
+           family={Vincent-Lamarre},
+           family_i={V\bibinithyphendelim L\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+        {{hash=fee78bd45984668b67ccecfcdba583ce}{%
+           family={Boivin},
+           family_i={B\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=20dfac4000dd6d67e6a6a7420d704ae5}{%
+           family={Gargouri},
+           family_i={G\bibinitperiod},
+           given={Y.},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=e62906b6ce0d3c4f352c0d41a7971662}{%
+           family={Larivière},
+           family_i={L\bibinitperiod},
+           given={V.},
+           given_i={V\bibinitperiod}}}%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{0a3b058920d87fd03fc9cb9607ed8ce2}
+      \strng{fullhash}{e1fb3581e7ba18058b74366c34f4bd3c}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the Association for Information Science and Technology}
+      \field{number}{11}
+      \field{title}{Estimating open access mandate effectiveness: The {MELIBEA} score}
+      \field{volume}{67}
+      \field{year}{2016}
+      \field{pages}{2815\bibrangedash 2828}
+      \range{pages}{14}
+      \verb{url}
+      \verb https://doi.org/10.1002/asi.23601
+      \endverb
+    \endentry
+    \entry{sale2010open}{incollection}{}
+      \name{author}{5}{}{%
+        {{hash=66485f4f5ad8af92f02aea5f91cbd222}{%
+           family={Sale},
+           family_i={S\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+        {{hash=620d372923d5f00ef39c11d7b8a8a7f0}{%
+           family={Couture},
+           family_i={C\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=3ecd9c4d9d29624a278504076faaef2b}{%
+           family={Rodrigues},
+           family_i={R\bibinitperiod},
+           given={E.},
+           given_i={E\bibinitperiod}}}%
+        {{hash=b7ccc640b041708385fc8b58f7ca668a}{%
+           family={Carr},
+           family_i={C\bibinitperiod},
+           given={L.},
+           given_i={L\bibinitperiod}}}%
+        {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
+           family={Harnad},
+           family_i={H\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=eaf3bd97499b13c331ea1a16f79ad85e}{%
+           family={Coombe},
+           family_i={C\bibinitperiod},
+           given={R.\bibnamedelimi J.},
+           given_i={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7a45cb2182c958948a8f315c5ea3322b}{%
+           family={Wershler},
+           family_i={W\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Toronto Press}%
+      }
+      \strng{namehash}{38f9c93aed33f0b30c9aca6b4c16f9bf}
+      \strng{fullhash}{0f42b34d188d82ecb457684d84fef826}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Dynamic Fair Dealing: Creating Canadian Culture Online}
+      \field{title}{Open access mandates and the {\enquote{fair dealing}} button}
+      \field{year}{2010}
+      \field{pages}{189\bibrangedash 200}
+      \range{pages}{12}
+      \verb{url}
+      \verb https://arxiv.org/abs/1002.3074
+      \endverb
     \endentry
   \endsortlist
 \endrefsection

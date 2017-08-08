@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.10.6)  8 AUG 2017 14:16
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.10.6)  8 AUG 2017 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1284,360 +1284,49 @@ Underfull \hbox (badness 1308) in paragraph at lines 150--158
 Underfull \vbox (badness 1931) has occurred while \output is active []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 178--184
+Underfull \hbox (badness 2057) in paragraph at lines 181--187
 []\EU1/MinionPro(0)/m/n/10.95 These numbers include unrefereed preprint
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 178--184
+Underfull \hbox (badness 3471) in paragraph at lines 181--187
 \EU1/MinionPro(0)/m/n/10.95 thermore, archived manuscripts are scattered
  []
 
 [2]
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Underfull \hbox (badness 1881) in paragraph at lines 214--214
-[]\EU1/MinionPro(0)/m/it/10.95 Budapest Open Access Initiative\EU1/MinionPro(0)
-/m/n/10.95 , (Feb. 2002)
+Underfull \hbox (badness 2735) in paragraph at lines 188--207
+[]\EU1/MinionPro(0)/m/n/10.95 In the domain of Physics and Astronomy,
  []
 
 
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Underfull \hbox (badness 4454) in paragraph at lines 214--214
-[]\EU1/MinionPro(0)/m/n/10.95 S. Harnad, T. Brody, F. Vallières, L. Carr,
+Underfull \hbox (badness 1325) in paragraph at lines 188--207
+\EU1/MinionPro(0)/m/n/10.95 subfields, such as astronomy and high-energy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--214
-\EU1/MinionPro(0)/m/n/10.95 S. Hitchcock, Y. Gingras, C. Oppenheim,
+Underfull \hbox (badness 1067) in paragraph at lines 214--216
+[]\EU1/MinionPro(0)/m/n/10.95 The solution is for universities and funders
  []
 
 
-Underfull \hbox (badness 1406) in paragraph at lines 214--214
-\EU1/MinionPro(0)/m/n/10.95 H. Stamerjohanns, and E. R. Hilf, “  The ac-
+Underfull \hbox (badness 5331) in paragraph at lines 230--232
+[]\EU1/MinionPro(0)/m/n/10 All mandates should urge (but not require)
  []
 
 
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
+Underfull \hbox (badness 10000) in paragraph at lines 230--232
+\EU1/MinionPro(0)/m/n/10 authors to make their immediate-deposit
+ []
 
 
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
+Underfull \hbox (badness 2529) in paragraph at lines 238--240
+\EU1/MinionPro(0)/m/n/10 ”email eprint request” Button (for embargoed
+ []
 
 
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
+Underfull \hbox (badness 1478) in paragraph at lines 240--243
+\EU1/MinionPro(0)/m/n/10 tions for performance review, research assess-
+ []
 
 [3]
 
@@ -1809,175 +1498,9 @@ Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
 uffix. Using \mkbibnamesuffix.
 
 
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Underfull \hbox (badness 2469) in paragraph at lines 214--214
-\EU1/MinionPro(0)/m/n/10.95 Larivière, and S. Harnad, “  Estimating open
- []
-
-
-Underfull \hbox (badness 2469) in paragraph at lines 214--214
-\EU1/MinionPro(0)/m/n/10.95 access mandate effectiveness: the MELIBEA
- []
-
-
-Underfull \hbox (badness 1132) in paragraph at lines 214--214
-\EU1/MinionPro(0)/m/n/10.95 tion Science and Technology \EU1/MinionPro(0)/bx/n/
-10.95 67\EU1/MinionPro(0)/m/n/10.95 , 2815–2828
+Underfull \hbox (badness 1881) in paragraph at lines 266--266
+[]\EU1/MinionPro(0)/m/it/10.95 Budapest Open Access Initiative\EU1/MinionPro(0)
+/m/n/10.95 , (Feb. 2002)
  []
 
 
@@ -1993,7 +1516,557 @@ Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
 uffix. Using \mkbibnamesuffix.
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 214--214
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 266--266
+[]\EU1/MinionPro(0)/m/n/10.95 S. Harnad, T. Brody, F. Vallières, L. Carr,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+\EU1/MinionPro(0)/m/n/10.95 S. Hitchcock, Y. Gingras, C. Oppenheim,
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 266--266
+\EU1/MinionPro(0)/m/n/10.95 H. Stamerjohanns, and E. R. Hilf, “  The ac-
+ []
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 266--266
+[]\EU1/MinionPro(0)/m/it/10.95 Publisher copyright policies & self-archiving\EU
+1/MinionPro(0)/m/n/10.95 ,
+ []
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+[4]
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 266--266
 []\EU1/MinionPro(0)/m/n/10.95 S. Harnad, “  Opening access by overcoming
  []
 
@@ -2070,6 +2143,22 @@ Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
 uffix. Using \mkbibnamesuffix.
 
 
+Underfull \hbox (badness 2469) in paragraph at lines 266--266
+\EU1/MinionPro(0)/m/n/10.95 Larivière, and S. Harnad, “  Estimating open
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 266--266
+\EU1/MinionPro(0)/m/n/10.95 access mandate effectiveness: the MELIBEA
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 266--266
+\EU1/MinionPro(0)/m/n/10.95 tion Science and Technology \EU1/MinionPro(0)/bx/n/
+10.95 67\EU1/MinionPro(0)/m/n/10.95 , 2815–2828
+ []
+
+
 Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
 iven. Using \mkbibnamegiven.
 
@@ -2082,146 +2171,106 @@ Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
 uffix. Using \mkbibnamesuffix.
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 214--214
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
+iven. Using \mkbibnamegiven.
+
+
+Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
+mily. Using \mkbibnamefamily.
+
+
+Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
+uffix. Using \mkbibnamesuffix.
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 266--266
 []\EU1/MinionPro(0)/m/n/10.95 A. Sale, M. Couture, E. Rodrigues, L. Carr,
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 214--214
+Underfull \hbox (badness 1112) in paragraph at lines 266--266
 \EU1/MinionPro(0)/m/n/10.95 and S. Harnad, “  Open access mandates and
  []
 
+[5
 
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Package biblatex Warning: \mkbibnamefirst is deprecated, please use \mkbibnameg
-iven. Using \mkbibnamegiven.
-
-
-Package biblatex Warning: \mkbibnamelast is deprecated, please use \mkbibnamefa
-mily. Using \mkbibnamefamily.
-
-
-Package biblatex Warning: \mkbibnameaffix is deprecated, please use \mkbibnames
-uffix. Using \mkbibnamesuffix.
-
-
-Underfull \hbox (badness 4454) in paragraph at lines 214--214
-[]\EU1/MinionPro(0)/m/it/10.95 Publisher copyright policies & self-archiving\EU
-1/MinionPro(0)/m/n/10.95 ,
- []
-
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 273.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 273.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 273.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 273.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30431 strings out of 493591
- 538228 string characters out of 6143546
- 1042603 words of memory out of 5000000
- 33621 multiletter control sequences out of 15000+600000
+ 30434 strings out of 493591
+ 538324 string characters out of 6143546
+ 1044619 words of memory out of 5000000
+ 33624 multiletter control sequences out of 15000+600000
  8780 words of font info for 57 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 55i,11n,61p,10365b,4265s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,61p,10365b,4274s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (4 pages).
+Output written on main.pdf (5 pages).

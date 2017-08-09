@@ -808,52 +808,185 @@
       \verb https://arxiv.org/abs/1002.3074
       \endverb
     \endentry
-    \entry{vincent2016estimating}{article}{}
-      \name{author}{5}{}{%
-        {{hash=fe803925174188d7fd5a413217e0d186}{%
-           family={Vincent-Lamarre},
-           family_i={V\bibinithyphendelim L\bibinitperiod},
-           given={P.},
-           given_i={P\bibinitperiod}}}%
-        {{hash=fee78bd45984668b67ccecfcdba583ce}{%
-           family={Boivin},
-           family_i={B\bibinitperiod},
+    \entry{finch2012accessibility}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ec8d46fe2617f81829846ea3d4760d7a}{%
+           family={Finch},
+           family_i={F\bibinitperiod},
            given={J.},
            given_i={J\bibinitperiod}}}%
-        {{hash=20dfac4000dd6d67e6a6a7420d704ae5}{%
-           family={Gargouri},
-           family_i={G\bibinitperiod},
-           given={Y.},
-           given_i={Y\bibinitperiod}}}%
-        {{hash=e62906b6ce0d3c4f352c0d41a7971662}{%
-           family={Larivière},
-           family_i={L\bibinitperiod},
-           given={V.},
-           given_i={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec8d46fe2617f81829846ea3d4760d7a}
+      \strng{fullhash}{ec8d46fe2617f81829846ea3d4760d7a}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Accessibility, sustainability, excellence: how to expand access to research publications. Report of the Working Group on Expanding Access to Published Research Findings}
+      \field{year}{2012}
+      \verb{url}
+      \verb https://www.acu.ac.uk/research-information-network/finch-report
+      \endverb
+    \endentry
+    \entry{dekker_kamerbrief}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cdd2265c26a2e406087c68fc03452b16}{%
+           family={Dekker},
+           family_i={D\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dutch Government}%
+      }
+      \strng{namehash}{cdd2265c26a2e406087c68fc03452b16}
+      \strng{fullhash}{cdd2265c26a2e406087c68fc03452b16}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{nameaddon}{Dutch secretary of education, culture and science}
+      \field{title}{Open access van publicaties [{Letter to the Dutch House of Representatives}]}
+      \field{year}{2013}
+      \verb{url}
+      \verb https://www.rijksoverheid.nl/documenten/kamerstukken/2013/11/15/kamerbrief-over-open-access-van-publicaties
+      \endverb
+    \endentry
+    \entry{dekker_kamerbrief_english}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cdd2265c26a2e406087c68fc03452b16}{%
+           family={Dekker},
+           family_i={D\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dutch Government}%
+      }
+      \strng{namehash}{cdd2265c26a2e406087c68fc03452b16}
+      \strng{fullhash}{cdd2265c26a2e406087c68fc03452b16}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{nameaddon}{Dutch secretary of education, culture and science}
+      \field{title}{Open access to publications [parliamentary document]}
+      \field{year}{2014}
+      \verb{url}
+      \verb https://www.government.nl/documents/parliamentary-documents/2014/01/21/open-access-to-publications
+      \endverb
+    \endentry
+    \entry{timeline_oa}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{nameaddon}{Openaccess.nl. Official Dutch website on open access.}
+      \field{title}{A chronological overview of important Dutch open access and open science successes}
+      \verb{url}
+      \verb http://openaccess.nl/en/in-the-netherlands/current-situation
+      \endverb
+    \endentry
+    \entry{ezine_oa}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{Nederland gidsland naar open access}
+      \verb{url}
+      \verb http://vsnu.nl/files/documenten/Domeinen/Onderzoek/Open%20access/Ezine-OpenAccess-mrt2016.pdf
+      \endverb
+    \endentry
+    \entry{uitgeversdeals}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{nameaddon}{Openaccess.nl. Official Dutch website on open access.}
+      \field{title}{Uitgeversdeals}
+      \verb{url}
+      \verb http://openaccess.nl/nl/in-nederland/uitgeversdeals
+      \endverb
+    \endentry
+    \entry{harnad2016evolutionary}{unpublished}{}
+      \name{author}{1}{}{%
         {{hash=5aad5ff44f0457889748f26eab1d8d59}{%
            family={Harnad},
            family_i={H\bibinitperiod},
            given={S.},
            given_i={S\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Wiley Online Library}%
-      }
-      \strng{namehash}{0a3b058920d87fd03fc9cb9607ed8ce2}
-      \strng{fullhash}{e1fb3581e7ba18058b74366c34f4bd3c}
+      \strng{namehash}{5aad5ff44f0457889748f26eab1d8d59}
+      \strng{fullhash}{5aad5ff44f0457889748f26eab1d8d59}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of the Association for Information Science and Technology}
-      \field{number}{11}
-      \field{title}{Estimating open access mandate effectiveness: The {MELIBEA} score}
-      \field{volume}{67}
+      \field{month}{4}
+      \field{title}{Evolutionarily Stable Strategies}
       \field{year}{2016}
-      \field{pages}{2815\bibrangedash 2828}
-      \range{pages}{14}
       \verb{url}
-      \verb https://doi.org/10.1002/asi.23601
+      \verb http://openaccess.eprints.org/index.php?/archives/1177-Evolutionarily-Stable-Strategies.html
+      \endverb
+    \endentry
+    \entry{narcis}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{{NARCIS - National Academic Research and Collaborations Information System}}
+      \verb{url}
+      \verb https://www.narcis.nl/
+      \endverb
+    \endentry
+    \entry{openaccessnl}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{nameaddon}{Official Dutch website on open access.}
+      \field{title}{openaccess.nl}
+      \verb{url}
+      \verb http://openaccess.nl
+      \endverb
+    \endentry
+    \entry{dekker_fifth_freedom}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cdd2265c26a2e406087c68fc03452b16}{%
+           family={Dekker},
+           family_i={D\bibinitperiod},
+           given={S.},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dutch Government}%
+      }
+      \strng{namehash}{cdd2265c26a2e406087c68fc03452b16}
+      \strng{fullhash}{cdd2265c26a2e406087c68fc03452b16}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{For {Europe's} fifth freedom}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://www.government.nl/documents/publications/2016/05/26/opiniestuk-van-staatssecretaris-dekker-over-open-access
+      \endverb
+    \endentry
+    \entry{eu_presidency_comments}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{Highlights in the Comments on the {Amsterdam} Call for Actions on Open Science}
+      \verb{url}
+      \verb http://openaccess.nl/sites/www.openaccess.nl/files/documenten/comments_highlights_on_the_amsterdam_call_for_action_on_open_science.pdf
+      \endverb
+    \endentry
+    \entry{amsterdam_call}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{title}{Amsterdam call for action on open science}
+      \verb{url}
+      \verb http://openaccess.nl/sites/www.openaccess.nl/files/documenten/amsterdam-call-for-action-on-open-science.pdf
       \endverb
     \endentry
   \endsortlist

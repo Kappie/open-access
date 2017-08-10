@@ -248,6 +248,23 @@
       \field{pages}{310\bibrangedash 314}
       \range{pages}{5}
     \endentry
+    \entry{economos}{online}{}
+      \name{author}{1}{}{%
+        {{hash=aa34f76c77708d94d253ae9bc02afafe}{%
+           family={Economos},
+           family_i={E\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa34f76c77708d94d253ae9bc02afafe}
+      \strng{fullhash}{aa34f76c77708d94d253ae9bc02afafe}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \verb{url}
+      \verb http://www.jeconomos.com/
+      \endverb
+    \endentry
     \entry{houghton2013planting}{article}{}
       \name{author}{2}{}{%
         {{hash=65f0111df9b4117a395140e31ffd3686}{%
@@ -889,13 +906,20 @@
       \endverb
     \endentry
     \entry{ezine_oa}{online}{}
+      \name{author}{1}{}{%
+        {{hash=af29b62a9484ee400b8d851c14961519}{%
+           family={{VSNU}},
+           family_i={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{af29b62a9484ee400b8d851c14961519}
+      \strng{fullhash}{af29b62a9484ee400b8d851c14961519}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{month}{2}
       \field{title}{Nederland gidsland naar open access}
-      \verb{url}
-      \verb http://vsnu.nl/files/documenten/Domeinen/Onderzoek/Open%20access/Ezine-OpenAccess-mrt2016.pdf
-      \endverb
+      \field{year}{2016}
     \endentry
     \entry{uitgeversdeals}{online}{}
       \field{sortinit}{0}
@@ -941,8 +965,7 @@
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labeltitlesource}{title}
-      \field{nameaddon}{Official Dutch website on open access.}
-      \field{title}{openaccess.nl}
+      \field{title}{Official Dutch website on open access.}
       \verb{url}
       \verb http://openaccess.nl
       \endverb
@@ -971,22 +994,42 @@
       \verb https://www.government.nl/documents/publications/2016/05/26/opiniestuk-van-staatssecretaris-dekker-over-open-access
       \endverb
     \endentry
-    \entry{eu_presidency_comments}{online}{}
+    \entry{amsterdam_call}{article}{}
+      \name{author}{1}{}{%
+        {{hash=af1cbf998fb99aa5e6ff3d32f3ce0124}{%
+           family={{Dutch Presidency of the Council of the European Union}},
+           family_i={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{af1cbf998fb99aa5e6ff3d32f3ce0124}
+      \strng{fullhash}{af1cbf998fb99aa5e6ff3d32f3ce0124}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Highlights in the Comments on the {Amsterdam} Call for Actions on Open Science}
+      \field{month}{4}
+      \field{title}{Amsterdam call for action on open science}
+      \field{year}{2016}
       \verb{url}
-      \verb http://openaccess.nl/sites/www.openaccess.nl/files/documenten/comments_highlights_on_the_amsterdam_call_for_action_on_open_science.pdf
+      \verb https://wiki.surfnet.nl/display/OSCFA/Amsterdam+Call+for+Action+on+Open+Science
       \endverb
     \endentry
-    \entry{amsterdam_call}{online}{}
+    \entry{scipost}{online}{}
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labeltitlesource}{title}
-      \field{title}{Amsterdam call for action on open science}
+      \field{title}{SciPost Foundation}
       \verb{url}
-      \verb http://openaccess.nl/sites/www.openaccess.nl/files/documenten/amsterdam-call-for-action-on-open-science.pdf
+      \verb https://scipost.org/
+      \endverb
+    \endentry
+    \entry{psycoloquy}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{nameaddon}{Refereed Journal with Peer Commentary (1990-2002)}
+      \field{title}{Psycoloquy}
+      \verb{url}
+      \verb http://www.cogsci.ecs.soton.ac.uk/cgi/psyc/newpsy
       \endverb
     \endentry
   \endsortlist
